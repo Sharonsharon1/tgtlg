@@ -52,13 +52,13 @@
 
   #### Instructions 
 
-  <p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  <p><a href="https://heroku.com/deploy?template=https://github.com/sharonsharon1/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
   ## Deploy on VPS
 
   - Clone this repo:
   ```
-  git clone -b main https://github.com/reaitten/tgtlg tgtlg
+  git clone -b main https://github.com/sharonsharon1/tgtlg tgtlg
   cd tgtlg
   ```
 
